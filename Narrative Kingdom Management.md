@@ -22,7 +22,7 @@
 
 > For example, Jeremy wants a fountain built to Gozreh, his character’s goddess. After a bit of discussion, the GM determines that a fountain is a pretty piece of architecture that makes the town a better place, but it’s not a particularly difficult thing to make. The GM decides it would be a four segment clock to complete the project. They both agree that building this fountain would not have much effect on the Kingdom or Jeremy’s character so they both decide to have no additional effects.
 
-> Another example, Lily wants to craft weapons for the kingdom’s army before they head out to war. She and her GM agree that this will take some time and make a decision to have it be a six segmented clock. Lily and the GM then discuss potential benefits, the GM states the army will have a +1 item bonus to projects until the start of the next kingdom turn.
+> Another example, Lily wants to craft weapons for the kingdom’s army before they head out to war. She and her GM agree that this will take some time and make a decision to have it be a six segmented clock. Lily and the GM then discuss potential benefits, the GM states Lily will have a +1 status bonus to her next recall knowledge check regarding wars and warfare.
 
 ### Project Rewards
   While rewards for completing a project could be anything, it’s recommended that rewards be something non-permanent to either the player or the kingdom. This means the best options are bonuses to checks until the start of the next kingdom turn, a consumable item for the leader, or even providing a small bonus to the next Kingdom Event.
