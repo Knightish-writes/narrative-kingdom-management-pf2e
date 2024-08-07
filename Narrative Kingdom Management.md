@@ -35,9 +35,7 @@
 
 ## Kingdom Events
   After spending a week working on projects a **Kingdom Event** may occur. Treat Kingdom Events as ten-segment clocks for the sake of resolving them and providing Kingdom XP. The difference is that events can be handled outside of the normal kingdom turn if players choose to spend downtime on it.
-
-### Warfare
-  Some Kingdom Events involve being invaded or attacked by another nation, these are warfare events. Unlike other kingdom events, wars are a tug-of-war clock. Each army begins with five segments in the clock you then choose a relevant skill to lead your army and roll a check as though with any other event.
+  
   At the end of each day, the opposing army rolls 2d6 to gain the following benefits:
   1-6: No Benefit
   7-9: The opposing army gains footing and gains a segment on the clock
